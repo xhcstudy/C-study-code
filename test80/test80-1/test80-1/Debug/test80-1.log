@@ -1,0 +1,11 @@
+﻿生成启动时间为 2022/4/6 12:49:20。
+     1>项目“D:\study_for_work\c-study-code\test80\test80-1\test80-1\test80-1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "test80-1.c"
+         test80-1.c
+     1>d:\study_for_work\c-study-code\test80\test80-1\test80-1\test80-1.c(90): error C2065: “MAX”: 未声明的标识符
+     1>已完成生成项目“D:\study_for_work\c-study-code\test80\test80-1\test80-1\test80-1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.48
